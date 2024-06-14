@@ -13,13 +13,13 @@ El dataset está compuesto por varias características recopiladas de muestras d
 En este proyecto, se realiza el siguiente flujo de trabajo:
 
 **1**. Análisis Exploratorio de Datos (EDA) y preprocesamiento de datos: 
-Exploración inicial de los datos para comprender su estructura y características y limpieza y transformación de los datos, incluyendo la imputación de valores faltantes y la codificación de variables categóricas.
+En esta fase inicial del proyecto, se realiza un Análisis Exploratorio de Datos (EDA) para comprender en profundidad la estructura y las características del conjunto de datos. Esto incluye explorar estadísticas descriptivas, visualizaciones y técnicas para detectar y manejar valores faltantes.
 
 **2**. Entrenamiento de Modelos: 
-Implementación y evaluación de diferentes modelos de clasificación, como la Regresión Logística, SVM, y Random Forest.
+Implementación y evaluación de diferentes modelos de clasificación, como la Regresión Logística, Support Vector Machines, y Random Forest.
 
 **3**. Evaluación del Modelo: 
-Evaluación de la precisión y otras métricas de rendimiento de los modelos entrenados.
+Evaluación de métricas de rendimiento de los modelos entrenados e implementación de validación cruzada y matriz de confusión.
 
 **4**. Análisis de los resultados obtenidos
 
