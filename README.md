@@ -26,6 +26,7 @@ Evaluación de métricas de rendimiento de los modelos entrenados e implementaci
 # Tecnologías Empleadas
 
 Lenguaje de Programación: Python
+
 Bibliotecas Principales:
 * pandas: para manipulación y análisis de datos
 * numpy: para operaciones numéricas
